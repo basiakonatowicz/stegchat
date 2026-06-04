@@ -4,3 +4,5 @@ jinja2==3.1.*
 python-multipart==0.0.*
 itsdangerous==2.2.*
 python-dotenv==1.0.*
+google-cloud-firestore==2.19.*
+bcrypt==4.2.*
